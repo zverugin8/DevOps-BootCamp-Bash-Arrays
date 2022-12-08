@@ -2,7 +2,7 @@
 
 ## Task
 
-Develop a script that takes number (count of needed folders up to 32) as an argument and create this folders in current directory with next naming convention `folder_<[a-z]>`.
+Develop a script that takes number (count of needed folders up to 26) as an argument and create this folders in current directory with next naming convention `folder_<[a-z]>`.
 
 ### Check
 
