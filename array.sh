@@ -2,12 +2,7 @@
 
 arr=({a..z})
 
-# for d in folder_{a..z}; do 
-#     if [[ -d "$d" ]]; then
-#         echo "$d exists on your filesystem. Removing $d"
-#         rmdir "./$d"
-#     fi 
-# done
+
 arg0=$1
 arg1=${arg0:=0}
 res_str=""
